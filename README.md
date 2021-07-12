@@ -1,5 +1,8 @@
 # Data Acquisition and Analyses Files for [Peña and Choi (2021, *Economics Letters*)](https://www.sciencedirect.com/science/article/abs/pii/S0165176521002457)
 
+- Authors: Pablo Peña (pablo@uchicago.edu) and Jun Ho Choi (junhoc@uchicago.edu)
+- For questions related to the files in this repository and their maintenance, please contact Jun Ho Choi (junhoc@uchicago.edu).
+
 This repository contains files for acquiring, cleaning, conducting analyses and producing figures with the Wikidata data utilized in the article **["Female representation among notable people born in 1700-2000" (Peña and Choi, 2021, *Economics Letters*)](https://www.sciencedirect.com/science/article/abs/pii/S0165176521002457)**. Contents are as follows.
 
 ## Contents
