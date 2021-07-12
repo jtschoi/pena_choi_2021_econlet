@@ -5,7 +5,7 @@ This repository contains files for acquiring, cleaning, conducting analyses and 
 ## Contents
 
 1. [`1_wikidata_retrieve_and_clean/wikidata_retrieve_and_clean.ipynb`](https://github.com/jtschoi/pena_choi_2021_econlet/blob/master/1_wikidata_retrieve_and_clean/wikidata_retrieve_and_clean.ipynb): for acquiring and conducting initial clean-up of data from Wikidata using Python and SPARQL
-2. [`2_analyses_and_chart_creation/2_charts_with_results_1700-2000.do`](https://github.com/jtschoi/pena_choi_2021_econlet/blob/master/2_analyses_and_chart_creation/charts_with_results_1700-2000.do): for analyzing data (acquired using the above-mentioned `.ipynb` file) and producing figures used in Peña and Choi (2021, *Economics Letters*)
+2. [`2_analyses_and_chart_creation/charts_with_results_1700-2000.do`](https://github.com/jtschoi/pena_choi_2021_econlet/blob/master/2_analyses_and_chart_creation/charts_with_results_1700-2000.do): for analyzing data (acquired using the above-mentioned `.ipynb` file) and producing figures used in Peña and Choi (2021, *Economics Letters*)
 3. [`2_analyses_and_chart_creation/countries_by_population.xlsx`](https://github.com/jtschoi/pena_choi_2021_econlet/blob/master/2_analyses_and_chart_creation/countries_by_population.xlsx): necessary file to be used in conjunction with the above-mentioned `.do` file; load the file in a relevant directory as described in the said `.do` file
 
 ## Data (originating from Wikidata) utilized in Peña and Choi (2021, *Economics Letters*)
